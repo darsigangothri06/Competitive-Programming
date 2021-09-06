@@ -1,30 +1,31 @@
-Given an integer array nums, return the greatest common divisor of the smallest number and largest number in nums.
+The GCD which is also known as HCF, of N numbers is the largest positive integer that divides all the numbers without leaving a remainder.
 
-The greatest common divisor of two numbers is the largest positive integer that evenly divides both numbers.
+Write an algorithm to determine the GCD of N positive integers.
 
-Example 1:
+#### Input
 
-    Input: nums = [2,5,6,9,10]
-    Output: 2
-    Explanation:
-    The smallest number in nums is 2.
-    The largest number in nums is 10.
-    The greatest common divisor of 2 and 10 is 2.
+The first line of the input consists of an integer ```num```, representing the number of positive integers (N).
 
-Example 2:
+The second line consists of N space-separated integers arr1, arr2, ... arr N-1 
 
-    Input: nums = [7,5,6,8,3]
-    Output: 1
-    Explanation:
-    The smallest number in nums is 3.
-    The largest number in nums is 8.
-    The greatest common divisor of 3 and 8 is 1.
+representing a list of positive integers.
 
-Example 3:
+#### Output
 
-    Input: nums = [3,3]
-    Output: 3
-    Explanation:
-    The smallest number in nums is 3.
-    The largest number in nums is 3.
-    The greatest common divisor of 3 and 3 is 3.
+Print an integer representing the GCD of the given postive integers.
+
+#### Example
+
+```
+Input:
+5
+2 4 6 8 10
+
+Output:
+2
+
+Explanation:
+The largest positive integer that divides all the positive integers 2 4 6 8 10 without leaving a remainder is 2
+So, the output is 2
+```
+
