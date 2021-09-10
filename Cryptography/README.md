@@ -1,6 +1,6 @@
 The use of codes and ciphers to protect secrets, began thousands of years ago and today we will create a algorithm to decrypt some encrypted messages.
 
-You have a mapping of alphabets with a nu,ber
+You have a mapping of alphabets with a number
 
 ```
 a - 1
