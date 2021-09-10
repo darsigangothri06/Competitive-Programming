@@ -44,7 +44,7 @@ Output:
 
 Explanation:
 There are 6 best ticket numbers
-1111, 1818, 8118 and 8888
+1111, 1818, 1818, 1881, 8118 and 8888
 ```
 
 ```
