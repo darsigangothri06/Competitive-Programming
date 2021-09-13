@@ -1,17 +1,8 @@
 L = list(map(int,input().split()))
-i = 0
-j = len(L) - 1
-while i < len(L):
+p = len(L)
+for i in range(len(L)):
     if L[i] == 0:
-        if L[j] != 0:
+        for j in range(i+1,p):
             L[i],L[j] = L[j],L[i]
-            print('swap',L)
-            j = j - 1
-            i = i + 1
-        else:
-            j = j - 1
-    else:
-        i = i + 1
-    if j < i:
-        break
+        p = p - 1
 print(L)
