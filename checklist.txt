@@ -1,0 +1,39 @@
+SOLVED
+
+1929 Array Concatenation
+1920 Build Array from Permutaion
+1. Two Sum
+Mini Peaks
+Prime Number
+387 First Unique Character in a String
+1832 Check if sentence is Pangram
+Smallest Difference of an array
+Count of Elements
+1480 Running Sum of 1d Array
+1323 Maximum 69 Number
+917 Reverse Only Letters
+1903 Largest Odd Number in a String
+1313 Decompress Run-Length Encoded List
+Reverse Only Vowels
+1704 Determine if String Halves Are Alike
+Encode the string
+1662 Check if Two String Arrays are Equivalent
+412 FizzBuzz
+1051 Height Checker
+
+UNSOLVED
+
+Operators
+IP Address Validation
+1684 Count the number of Consistent Strings
+1935 Maximum Number of words you can type
+Number Tree Pattern
+1588 Sum of All Odd Length Subarrays
+1304 Find N Unique Integers Sum up to Zero
+Highest Altitude
+844 Backspace String Compare
+
+TO MODIFY
+
+Find Substrings of given string
+1346 Check if N and its Double Exist
